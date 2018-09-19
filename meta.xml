@@ -11,6 +11,7 @@
 	
 	<!-- Maps -->
 	<map src = "Maps/BlockDeagleArena.map"/>
+	<map src = "Maps/BlockAndromeda.map"/>
 	
 	<!-- Scripts -->
 	<script src = "Main-client.lua" type = "client" cache = "false"/>
@@ -19,6 +20,8 @@
 	<script src = "Client/Peds.lua" type = "client" cache = "false"/>
 	<script src = "Client/LoadScreen.lua" type = "client" cache = "false"/>
 	<script src = "Client/Countdown.lua" type = "client" cache = "false"/>
+	<script src = "Client/Infobox.lua" type = "client" cache = "false"/>
+	<script src = "Client/Scoreboard.lua" type = "client" cache = "false"/>
 	
 	<script src = "Server/Account.lua"/>
 	<script src = "Server/DeagleArena.lua"/>
