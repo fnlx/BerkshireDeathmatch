@@ -1,12 +1,9 @@
-# Berkshire Deathmatch
+# Berkshire Deathmatch v.0.02
 
-Dieser Gamemode ist im Zeitraum August 2018 - ? entstanden. Die Arbeiten am dem Gamemode sind im vollem Gange. Sollte man Bugs finden oder Vorschläge haben, wie man den Gamemode noch verbessern kann, kann man mich gerne kontaktieren.
+Da ich in meiner Laufbahn ziemlich oft nach einem Tactic / Deathmatch Gamemode gefragt wurde, da die bisher veröffentlichten entweder unvollständig oder komplett verschlüsselt sind, habe ich nun das Grundgerüst eines typischen Tactic Scripts entwickelt, auf welchem man aufbauen kann. Die Implementierung von neuen Inhalten wurde mit v.0.02 komplett eingestellt, Bugs können allerdings weiterhin gemeldet haben. Sollte ich Zeit und Lust habe, behebe ich sie. Melden kann man sie mir auf Twitter oder anderen Social-Media Plattformen, auf denen ich vertreten bin. https://linktr.ee/xendom.rayden
 
-INSTALLATION & SUPPORT
-1. Die Datenbank (berkshiredm.sql) hochladen.
-2. Unter "Server/Account.lua" in Zeile 6 die Datenbankdaten eintragen.
-3. Gamemode in den "resources" Ordner ziehen und starten.
+Installation:
+1. berkshiredm.sql in seine Datenbank importieren.
+2. Die Datenbankdaten in die Server/Account.lua (zeile 6) eintragen.
 
-Sollte man Probleme bei der Installation haben, kann man mich gerne kontaktieren.
-
-v.0.01
+Weitere Installationshilfe leiste ich nicht. Nachrichten dsbzgl. werden gelöscht und der Verfasser wird blockiert.
