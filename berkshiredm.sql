@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Erstellungszeit: 17. Aug 2018 um 10:00
+-- Erstellungszeit: 19. Sep 2018 um 04:14
 -- Server-Version: 10.1.32-MariaDB
 -- PHP-Version: 7.2.5
 
@@ -32,7 +32,9 @@ CREATE TABLE `accounts` (
   `ID` int(11) NOT NULL,
   `Name` text NOT NULL,
   `Password` text NOT NULL,
-  `Serial` varchar(50) NOT NULL
+  `Serial` varchar(50) NOT NULL,
+  `Kills` int(11) NOT NULL DEFAULT '0',
+  `Tode` int(11) NOT NULL DEFAULT '0'
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 
 --
