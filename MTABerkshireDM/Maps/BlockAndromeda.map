@@ -1,0 +1,8 @@
+<map edf:definitions="editor_main">
+    <object id="object (a51_jetdoor) (1)" breakable="true" interior="9" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="312.89993" posY="1032" posZ="1942.8" rotX="6" rotY="90" rotZ="179.5"></object>
+    <object id="object (a51_jetdoor) (7)" breakable="true" interior="9" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="312.98001" posY="1040.8" posZ="1941.87" rotX="5.999" rotY="90" rotZ="179.495"></object>
+    <object id="object (a51_jetdoor) (8)" breakable="true" interior="9" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="316.79999" posY="1039.6" posZ="1942.02" rotX="0" rotY="90" rotZ="90"></object>
+    <object id="object (a51_jetdoor) (9)" breakable="true" interior="9" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="318.79001" posY="1032.3" posZ="1942.6" rotX="354" rotY="90" rotZ="359.75"></object>
+    <object id="object (a51_jetdoor) (10)" breakable="true" interior="9" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="318.84" posY="1041.25" posZ="1941.73" rotX="353.996" rotY="90" rotZ="359.747"></object>
+    <object id="object (a51_jetdoor) (11)" breakable="true" interior="9" alpha="255" model="3095" doublesided="false" scale="1" dimension="0" posX="316" posY="1038.7" posZ="1942.2" rotX="0" rotY="0" rotZ="0"></object>
+</map>
