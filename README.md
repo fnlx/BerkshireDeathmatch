@@ -4,6 +4,6 @@ Da ich in meiner Laufban des Öfteren nach einem Taktik / Deathmatch Gamemode ge
 
 Installation:
 1. Die 'berkshiredm.sql' in die Datenbank importieren.
-2. Die Datenbankdaten in die 'Server/Account.lua' (Server 6) eintragen.
+2. Die Datenbankdaten in die 'Server/Account.lua' (Zeile 6) eintragen.
 
 Ich leiste zu diesem Gamemode keinen Support mehr!
